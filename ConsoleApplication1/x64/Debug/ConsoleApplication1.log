@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+c:\users\gonza\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(216): warning C4101: 'nonce': variable local sin referencia
+  ConsoleApplication1.vcxproj -> C:\Users\gonza\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
